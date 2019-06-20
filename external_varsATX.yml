@@ -26,4 +26,4 @@ private_key: ./xxx.key
 certificate_name: ansible-xxx
 
 
-# These are the Variables and values that are used by PB_MakeTenant.yml
+# These are the Variables and values that are used by PB_CreateTenantATX.yml and PB-DeleteTenantATX.yml
