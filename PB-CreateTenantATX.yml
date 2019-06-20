@@ -200,9 +200,9 @@
           - "{{epg_name1}}"
           - "{{epg_name2}}"
 
-# Modified by Zalatan.
+# Modified by Zalatan
 #
-# Usage:  ansible-playbook PB-CreateTenantATX.yml -i sjcMpodhosts  -vvv
+# Usage:  sudo ansible-playbook PB-CreateTenantATX.yml -i SJC-Inventory-file  -vvv
 #
 #  docs.ansible.com is essential to make sure you got the modules right
 # variables are defined in external_varsATX.yml
