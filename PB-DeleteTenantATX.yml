@@ -25,7 +25,7 @@
 
 # Modified by Zalatan.
 #
-# Usage:  ansible-playbook PB-DeleteTenantATX.yml -i sjcMpodhosts  -vvv
+# Usage:  sudo ansible-playbook PB-DeleteTenantATX.yml -i SJC-Inventory-file  -vvv
 #
 #  docs.ansible.com is essential to make sure you got the modules right
 # variables are defined in external_varsATX.yml
